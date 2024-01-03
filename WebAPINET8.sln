@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPINET8", "WebAPINET8.csproj", "{60BAE62F-FE7E-4259-9BDF-4227724868F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60BAE62F-FE7E-4259-9BDF-4227724868F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BAE62F-FE7E-4259-9BDF-4227724868F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BAE62F-FE7E-4259-9BDF-4227724868F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BAE62F-FE7E-4259-9BDF-4227724868F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0507D3D-66E2-48C1-8255-B7E01C7C6323}
+	EndGlobalSection
+EndGlobal
